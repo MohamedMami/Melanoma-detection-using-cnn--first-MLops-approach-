@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./src/data_processing",
+        "./src/model",
+        "./src/test"
+    ]
+}

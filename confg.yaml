@@ -1,0 +1,10 @@
+shear_range: 0.2
+zoom_range: 0.2
+rescale: 0.0039215686274509803921568627451
+horizontal_flip : True
+epochs  : 50
+batch_size : 32
+Loss : 'categorical_crossentropy'
+optimizer : adam
+testdirectoryAug : '/data/aug/testing_set'
+traindirectoryAug : '/data/aug/training_set'
